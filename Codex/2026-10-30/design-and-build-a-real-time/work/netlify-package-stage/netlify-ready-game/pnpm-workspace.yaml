@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: true
+  netlify-cli: true
+  unix-dgram: true
+minimumReleaseAgeExclude:
+  - netlify-cli@27.16.1
